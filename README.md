@@ -54,5 +54,5 @@ Comprale un tesito a Naki, debe estar cansada haha
 🍛  Pollo a la coca cola
 🥤  Coca cola o té
 
-Hobbies <img  alt="icono-val" src="https://github.com/nakiviar/nakiviar/blob/master/icono-valorant.png?raw=true" width="22px"/>
+Hobbies ♨💻<img  alt="icono-val" src="https://github.com/nakiviar/nakiviar/blob/master/icono-valorant.png?raw=true" width="22px"/>
   <img  alt="icono-lol" src="https://github.com/nakiviar/nakiviar/blob/master/icono-league-of-legends.png?raw=true" width="22px"/>🩰🔮🎹🎧🗨🏃‍♀️
