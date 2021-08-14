@@ -52,3 +52,6 @@ Comprale un tesito a Naki, debe estar cansada haha
 ✅  Completed 663 tasks so far
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
+🍰  27 nov. 1997
+🍛  Pollo a la coca cola
+🥤  Coca cola o té
