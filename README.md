@@ -39,7 +39,7 @@ JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░
 C++          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 <!--END_SECTION:waka-->
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nakiviar" data-color="#FF5F5F" data-emoji="🍵" data-font="Cookie" data-text="Buy me a tea" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 Comprale un tesito a Naki, debe estar cansada haha
 
 <a href="https://www.buymeacoffee.com/nakiviar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame un tesito" width="150" ></a>
@@ -51,5 +51,3 @@ Comprale un tesito a Naki, debe estar cansada haha
 ✅  Completed 663 tasks so far
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
-
