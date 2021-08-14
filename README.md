@@ -41,8 +41,7 @@ C++          11 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 Comprale un tesito a Naki, debe estar cansada haha
-
-<a href="https://www.buymeacoffee.com/nakiviar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame un tesito" width="150" ></a>
+<a href="https://www.buymeacoffee.com/nakiviar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame un tesito" style="height: 60px !important;width: 217px !important;" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
