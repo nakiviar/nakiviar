@@ -4,11 +4,11 @@
   <img align="left" alt="Nakis's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="www.linkedin.com/in/naki-jannet-dejo-vicente">
+<a href="https://linkedin.com/in/naki-jannet-dejo-vicente">
   <img align="left" alt="Naki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="www.linkedin.com/in/naki-jannet-dejo-vicente">
+<a href="https://trello.com/b/LMMpaIA1/naki-dejo-vicente">
   <img align="left" alt="Naki's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/13432607/29981988-82cec158-8f58-11e7-9f26-473079c2a9b1.png" />
 </a>
 
