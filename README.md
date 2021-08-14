@@ -54,6 +54,7 @@ Comprale un tesito a Naki, debe estar cansada haha
 🍛  Pollo a la coca cola
 🥤  Coca cola o té
 
-  <img align="right" alt="icono-val" src="https://github.com/nakiviar/nakiviar/blob/master/icono-valorant.png?raw=true" width="22px"/>
-
-  <img align="right" alt="icono-lol" src="https://github.com/nakiviar/nakiviar/blob/master/icono-league-of-legends.png?raw=true" width="22px"/>
+  <img align="left" alt="icono-val" src="https://github.com/nakiviar/nakiviar/blob/master/icono-valorant.png?raw=true" width="22px"/>
+  sadica97#LAS
+  <img align="left" alt="icono-lol" src="https://github.com/nakiviar/nakiviar/blob/master/icono-league-of-legends.png?raw=true" width="22px"/>
+  sadica181#LAN
