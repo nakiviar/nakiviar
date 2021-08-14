@@ -48,13 +48,12 @@ Comprale un tesito a Naki, debe estar cansada haha
 
 <a href="https://www.buymeacoffee.com/nakiviar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame un tesito" width="150" ></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points
-🌸  Completed 0 tasks today
-✅  Completed 663 tasks so far
-⏳  Longest streak is 10 days
+🚧 **Datos adicionales:**
 <!-- TODO-IST:END -->
 🍰  27 nov. 1997
 🍛  Pollo a la coca cola
 🥤  Coca cola o té
+
+  <img align="right" alt="icono-val" src="https://github.com/nakiviar/nakiviar/blob/master/icono-valorant.png?raw=true" width="22px"/>
+
+  <img align="right" alt="icono-lol" src="https://github.com/nakiviar/nakiviar/blob/master/icono-league-of-legends.png?raw=true" width="22px"/>
