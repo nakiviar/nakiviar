@@ -16,7 +16,14 @@
 
 <br />
 
-Hola!, me llamo Naki Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum sit amet eros vehicula facilisis. Integer volutpat rhoncus justo non lacinia. Curabitur facilisis aliquam condimentum. Nunc quis quam mattis, placerat neque nec, maximus nisl. Mauris aliquam dolor vel nibh feugiat gravida. Phasellus tincidunt lacinia purus, et porttitor leo tristique eu.
+Hola!, me llamo Naki .Me motiva las
+nuevas tendencias tecnológicas, he programado aplicaciones en entorno FrontEnd y
+BackEnd utilizando varias tecnologías tanto para productos legados en mantenimientos y
+cambios según requerimientos solicitados con Struts, JSF, JDBC e iBatis, también he
+desarrollado en Angular, NodeJS, Spring Framework, Spring Boot con Hibernate JPA y Spring
+Data, he trabajado en equipos de desarrollo usando la metodología Agile usando Kanban
+con Jira y Trello, además utilizo herramientas como Git con GitHub, GitLab, JMeter,
+SonarQube, JUnit y Maven.
 
 
   <img align="right" alt="GIF" src="https://github.com/nakiviar/nakiviar/blob/master/code.gif?raw=true" width="500" height="320" />
