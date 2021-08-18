@@ -29,7 +29,7 @@ SonarQube, JUnit y Maven.
   <img align="right" alt="GIF" src="https://github.com/nakiviar/nakiviar/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-**languages and tools:**
+**Herramientas que uso (languages and tools) :**
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/cplusplus/cplusplus-original.svg"></code>
@@ -42,7 +42,7 @@ SonarQube, JUnit y Maven.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/arduino/arduino-original.svg"></code>
 
-📊 **this week i spent my time on:**
+📊 **Esta semana pasé tiempo en:**
 <!--START_SECTION:waka-->
 ```text
 Java         9 hrs 6 mins    ███████████████████████▒░   93.42 %
@@ -52,7 +52,7 @@ C++          11 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-Comprale un tesito a Naki 
+Comprale un tesito a Naki :
 
 <a href="https://www.buymeacoffee.com/nakiviar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame un tesito" width="150" ></a>
 
