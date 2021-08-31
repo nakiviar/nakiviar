@@ -58,9 +58,9 @@ Comprale un tesito a Naki :
 
 🚧 **Datos adicionales:**
 <!-- TODO-IST:END -->
-🍰  27 nov. 1997
-🍛  Pollo a la coca cola
-🥤  Coca cola o té
+🍰  27 nov. 1997.
+🍛  Pollo a la coca cola.
+🥤  Coca cola o té.
 
 Hobbies ♨💻<img  alt="icono-val" src="https://github.com/nakiviar/nakiviar/blob/master/icono-valorant.png?raw=true" width="22px"/>
   <img  alt="icono-lol" src="https://github.com/nakiviar/nakiviar/blob/master/icono-league-of-legends.png?raw=true" width="22px"/>🩰🔮🎧🗨🏃‍♀️
