@@ -64,3 +64,5 @@ Comprale un tesito a Naki :
 
 Hobbies ♨💻<img  alt="icono-val" src="https://github.com/nakiviar/nakiviar/blob/master/icono-valorant.png?raw=true" width="22px"/>
   <img  alt="icono-lol" src="https://github.com/nakiviar/nakiviar/blob/master/icono-league-of-legends.png?raw=true" width="22px"/>🩰🔮🎧🗨🏃‍♀️
+  
+  
