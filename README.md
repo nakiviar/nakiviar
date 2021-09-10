@@ -13,6 +13,7 @@
   <img align="left" alt="Naki's Trello" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/trello/trello-plain.svg" />
 </a>
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=nakiviar.nakiviar)
 
 <br />
