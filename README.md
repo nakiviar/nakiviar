@@ -16,6 +16,7 @@
 
 <br />
 
+
 Hola!, me llamo Naki. Me motiva las
 nuevas tendencias tecnológicas, he programado aplicaciones en entorno FrontEnd y
 BackEnd utilizando varias tecnologías tanto para productos legados en mantenimientos y
