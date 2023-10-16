@@ -1,4 +1,5 @@
 ### hey there 👻
+<!-- 
 
 <a href="https://discord.gg/2hgutPrw">
   <img align="left" alt="Nakis's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -7,12 +8,10 @@
 <a href="https://linkedin.com/in/naki-jannet-dejo-vicente">
   <img align="left" alt="Naki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+-->
 <a href="https://trello.com/b/LMMpaIA1/naki-dejo-vicente">
   <img align="left" alt="Naki's Trello" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/trello/trello-plain.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=nakiviar.nakiviar)
 
 <br />
 
@@ -56,14 +55,14 @@ C++          11 mins         ▒░░░░░░░░░░░░░░░░
 Comprale un tesito a Naki :
 
 <a href="https://www.buymeacoffee.com/nakiviar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame un tesito" width="150" ></a>
-
+<!-- 
 🚧 **Datos adicionales:**
-<!-- TODO-IST:END -->
+TODO-IST:END 
 🍰  27 nov. 1997.
 🍛  Pollo a la coca cola.
 🥤  Coca cola o té.
 
 Hobbies ♨💻<img  alt="icono-val" src="https://github.com/nakiviar/nakiviar/blob/master/icono-valorant.png?raw=true" width="22px"/>
   <img  alt="icono-lol" src="https://github.com/nakiviar/nakiviar/blob/master/icono-league-of-legends.png?raw=true" width="22px"/>🩰🔮🎧🗨🏃‍♀️
-  
+  -->
   
