@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### hey there <img  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 <!-- 
 
@@ -10,14 +10,11 @@
   <img align="left" alt="Naki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 -->
-<a href="https://trello.com/b/LMMpaIA1/naki-dejo-vicente">
-  <img align="left" alt="Naki's Trello" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/trello/trello-plain.svg" />
-</a>
-
-<br />
 
 
-Hola!, me llamo Naki. Me motiva las
+
+
+Hola!, me llamo Naki . Me motiva las
 nuevas tendencias tecnológicas, he programado aplicaciones en entorno FrontEnd y
 BackEnd utilizando varias tecnologías tanto para productos legados en mantenimientos y
 cambios según requerimientos solicitados con Struts, JSF, JDBC e iBatis, también he
@@ -56,6 +53,7 @@ C++          11 mins         ▒░░░░░░░░░░░░░░░░
 Comprale un tesito a Naki :
 
 <a href="https://www.buymeacoffee.com/nakiviar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame un tesito" width="150" ></a>
+
 <!-- 
 🚧 **Datos adicionales:**
 TODO-IST:END 
@@ -66,4 +64,4 @@ TODO-IST:END
 Hobbies ♨💻<img  alt="icono-val" src="https://github.com/nakiviar/nakiviar/blob/master/icono-valorant.png?raw=true" width="22px"/>
   <img  alt="icono-lol" src="https://github.com/nakiviar/nakiviar/blob/master/icono-league-of-legends.png?raw=true" width="22px"/>🩰🔮🎧🗨🏃‍♀️
   -->
-  
+   Visita mi trello aqui: https://trello.com/b/LMMpaIA1/naki-dejo-vicente
