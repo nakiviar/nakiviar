@@ -52,7 +52,7 @@ C++          11 mins         ▒░░░░░░░░░░░░░░░░
 
 Comprale un tesito a Naki :
 
-<a href="https://www.buymeacoffee.com/nakiviar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame un tesito" width="150" ></a>
+<a href="https://www.buymeacoffee.com/nak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Invitame un tesito" width="150" ></a>
 
 <!-- 
 🚧 **Datos adicionales:**
