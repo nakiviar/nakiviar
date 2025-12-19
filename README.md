@@ -14,15 +14,11 @@
 
 
 
-Hola!, me llamo Naki . Me motiva las
-nuevas tendencias tecnológicas, he programado aplicaciones en entorno FrontEnd y
-BackEnd utilizando varias tecnologías tanto para productos legados en mantenimientos y
-cambios según requerimientos solicitados con Struts, JSF, JDBC e iBatis, también he
-desarrollado en Angular, NodeJS, Spring Framework, Spring Boot con Hibernate JPA y Spring
-Data, he trabajado en equipos de desarrollo usando la metodología Agile usando Kanban
-con Jira y Trello, además utilizo herramientas como Git con GitHub, GitLab, JMeter,
-SonarQube, JUnit y Maven.
+Hi!! I’m Naki, a backend developer with 6+ years of experience working mainly in banking systems. I enjoy building reliable Java services, improving legacy platforms, and learning new technologies as I go.
 
+I’ve worked on payments, digital banking and architecture improvements, always trying to bring clarity, collaborate well with my team, and deliver clean, stable solutions.
+
+I’m currently interested in cloud technologies, AI, and becoming stronger in software architecture.
 
   <img align="right" alt="GIF" src="https://github.com/nakiviar/nakiviar/blob/master/code.gif?raw=true" width="300" height="220" />
 
