@@ -14,7 +14,7 @@
 
 
 
-Hi!! I’m Naki, a backend developer with 6+ years of experience working mainly in banking systems. I enjoy building reliable Java services, improving legacy platforms, and learning new technologies as I go.
+Hi!! I’m Naki, a backend developer with 7+ years of experience working mainly in banking systems. I enjoy building reliable Java services, improving legacy platforms, and learning new technologies as I go.
 
 I’ve worked on payments, digital banking and architecture improvements, always trying to bring clarity, collaborate well with my team, and deliver clean, stable solutions.
 
